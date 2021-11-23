@@ -9,4 +9,6 @@ nltk==3.6.4 \
 transformers==4.12.3
 
 # Compress!
+You can use the code
 `python main.py`
+to run our demo compressor.
