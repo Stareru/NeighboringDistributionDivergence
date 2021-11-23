@@ -15,8 +15,8 @@ You can use the code
 to run our demo compressor.
 
 # Todo
-Text Compressor    \[x\]
-Semantic Difference Evaluator \[ \]
-Experiments on Google Dataset    \[ \]
-PTB Pruning   \[ \]
+Text Compressor    \[x\] \
+Semantic Difference Evaluator \[ \] \
+Experiments on Google Dataset    \[ \] \
+PTB Pruning   \[ \] \
 SRL Predicate Detecting \[ \]
