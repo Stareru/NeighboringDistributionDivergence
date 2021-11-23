@@ -15,7 +15,7 @@ You can use the code
 to run our demo compressor.
 
 # Todo
-Text Compressor    \[x\] \
+Text Compressor    \[O\] \
 Semantic Difference Evaluator \[ \] \
 Experiments on Google Dataset    \[ \] \
 PTB Pruning   \[ \] \
