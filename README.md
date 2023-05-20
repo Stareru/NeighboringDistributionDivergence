@@ -1,6 +1,7 @@
 # Neighboring Distribution Divergence
 Official Implementation of Paper "A Novel Metric for Evaluating Semantics Preservation" on ArXiv:\
 https://arxiv.org/abs/2110.01176
+**Accepted by ACL Findings 2023**
 
 # Requirements
 numpy==1.20.1 \
