@@ -15,13 +15,6 @@ You can use the code
 `python main.py`
 to run our demo compressor.
 
-# Todo
-Text Compressor    \[O\] \
-Semantic Difference Evaluator \[ \] \
-Experiments on Google Dataset    \[ \] \
-PTB Pruning   \[ \] \
-SRL Predicate Detecting \[ \]
-
 # Citation
 Cite our code if you find it to be helpful for your projects
 ```bib
